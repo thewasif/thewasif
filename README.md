@@ -8,7 +8,7 @@ I am 17 years old programmer who loves to code web and do cloud native stuff. I 
 
 </div>
 
-<div align="center">
+<div>
 
 ### Connect with Me
 
