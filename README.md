@@ -28,6 +28,7 @@ I am 18 years old programmer who loves to code web and do cloud native stuff. I 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL&logoColor=de33a6)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-10AA50?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 
