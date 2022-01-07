@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I am a young programmer who loves to code web and do cloud native stuff. I love to put creativity and innovation in my work to create productive software. I am currently learning theoretical computer science and discrete mathematics. I love computer science as a discipline and love to learn new stuff.  
+I am a young programmer who loves to code web and do cloud native stuff. I love to put creativity and innovation in my work to create productive software. I am currently learning theoretical computer science and software architecture. I love computer science as a discipline and love to learn new stuff.  
 I want to be a better version of myself everyday! 
 
 <div align="center" width="50">
