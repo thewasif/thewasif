@@ -1,4 +1,11 @@
-## Hey there! 👋
+### 🚨 Help Palestine: Stand Against the Genocide 🚨
+
+⚠️ Please join us in raising awareness and taking action to stop the killing of innocent civilians, especially children, in Palestine. Your support can make a difference in ending this tragedy.
+
+[What's going on?](https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide) | [Donate for Palestine](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
+
+
+# Hey there! 👋
 
 I am a young programmer who loves to code web and do cloud native stuff. I love to put creativity and innovation in my work to create productive software. I am currently learning theoretical computer science and software architecture. I love computer science as a discipline and love to learn new stuff.  
 I want to be a better version of myself everyday! 
