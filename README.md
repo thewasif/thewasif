@@ -29,27 +29,21 @@ I want to be a better version of myself everyday!
 
 ### Tools I Use
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233f66ca&color=3f66ca)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=next.js)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL&logoColor=de33a6)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-10AA50?style=flat-square&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23F7DF1C?&logo=postgresql&logoColor=000000&labelColor=%236796ca&color=%236796ca)
 
 
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-316CE6?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-![Netlify](http://img.shields.io/badge/-Netlify-15847D?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Linux Mint](http://img.shields.io/badge/-Linux%20Mint-B2E876?style=flat-square&logo=linux-mint&logoColor=ffffff)
-
 
 ---
