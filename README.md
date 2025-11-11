@@ -7,7 +7,7 @@
 
 # Hey there! 👋
 
-I am a young programmer who loves to code web and do cloud native stuff. I love to put creativity and innovation in my work to create productive software. I am currently learning theoretical computer science and software architecture. I love computer science as a discipline and love to learn new stuff.  
+I am a young programmer who loves to explore. I love to put creativity and innovation in my work to create software. I am currently learning theoretical computer science and software architecture. I love computer science as a discipline and love to learn new stuff.  
 I want to be a better version of myself everyday! 
 
 <div align="center" width="50">
@@ -31,10 +31,9 @@ I want to be a better version of myself everyday!
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233f66ca&color=3f66ca)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=next.js)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Supabase](https://img.shields.io/badge/-Supabase-2E2E2E?style=flat-square&logo=supabase&logoColor=3ecf8e)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL&logoColor=de33a6)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-10AA50?style=flat-square&logo=mongodb&logoColor=ffffff)
@@ -43,6 +42,7 @@ I want to be a better version of myself everyday!
 
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Railway](https://img.shields.io/badge/-Railway-13111c?style=flat-square&logo=railway&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
