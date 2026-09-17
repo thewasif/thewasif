@@ -11,7 +11,7 @@
 
 ### About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 
-- 💻 Full-stack dev from Islamabad, building payments stuff in fintech
+- 💻 Full-stack dev, building payments stuff in fintech
 - 🧠 Currently nerding out on theoretical CS and software architecture
 - 📚 Off the clock, you'll find me with poetry and literature (when the backlog lets me)
 - 🌱 Trying to be a slightly better version of myself every day
